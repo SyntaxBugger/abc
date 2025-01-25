@@ -1,0 +1,16 @@
+--echo command: write into the file and if we echo again, it appends into the file.
+--cat command: reads from the file.
+--diff command (git diff): this command provides difference between the commited source file and present source file.
+--git log: gives a history of different commits done.
+--ssh-keygen -o: provides a key 
+--mkdir: to create a new folder in the present directory. 
+--- echo "Creare a new text file">> myfile.txt 
+*** it writes the content in the file plus this command creates a new file too.
+--ls: tells the name of the file and folders in the current directory.
+--add: 
+***git add .(syntax)
+--git show: 
+***cd .. : shortcut to go to the previous folder, one dot for one previous file to go back.
+--git restore: restores the deleted files from the respository .
+--git rm --cagitched filename: deletes the file from the repository.
+--
